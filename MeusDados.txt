@@ -1,3 +1,4 @@
 RA: 920102574
 Nome: Marco Antonio
-Curso: Sistemas de Informação
+Data de nascimento: 12/05/2001
+Email: marchleke@hotmail.com
